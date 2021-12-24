@@ -4,6 +4,7 @@ deviceid="17A7F633BD2668F5C58AC8FF2E0DDB52FE738274220CF20A44FBD5C421B24F47D483B6
 emaill="e8bf0gjt9@xojxe.com"
 passwordd="tempmail"
 custompwd="fakeaccpwd"
+private="f8300f79-bf7d-41b2-9c73-c8bd732d4bdb"
 url="https://ElatedSlipperyArchive.crimsondead.repl.co"
 chatlink="http://aminoapps.com/p/x8nptuj"
 nickname="itsme"
